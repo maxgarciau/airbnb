@@ -4,4 +4,6 @@
 -- | 302750   |
 -- +----------+
 
-
+.mode column
+SELECT COUNT(*)
+FROM reviews; 
